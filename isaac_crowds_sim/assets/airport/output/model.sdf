@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sdf version="1.7">
+  <model name="airport_level0">
+    <static>true</static>
+    <link name="wall_1">
+      <visual name="wall_1">
+        <geometry>
+          <mesh>
+            <uri>model://airport_level0/meshes/wall_1.obj</uri>
+          </mesh>
+        </geometry>
+        <transparency>0.0</transparency>
+        <material>
+          <diffuse>1.0 1.0 1.0</diffuse>
+          <specular>0.1 0.1 0.1</specular>
+          <pbr>
+            <metal>
+              <metalness>0.0</metalness>
+              <albedo_map>model://airport_level0/meshes/default.png</albedo_map>
+            </metal>
+          </pbr>
+          <script>
+            <uri>model://airport_level0/meshes/</uri>
+            <name>wall_1_Diffuse</name>
+          </script>
+        </material>
+      </visual>
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://airport_level0/meshes/wall_1.obj</uri>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <collide_bitmask>0x01</collide_bitmask>
+          </contact>
+        </surface>
+      </collision>
+      <pose>42.142933713846254 -615.6504536340541 0 0 0 0</pose>
+    </link>
+  </model>
+</sdf>

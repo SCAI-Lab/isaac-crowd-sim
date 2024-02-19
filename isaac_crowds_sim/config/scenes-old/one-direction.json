@@ -1,0 +1,13 @@
+{
+	"gen_0":
+	{
+		"pos_x": [136.5, 134.5, 131.5, 158, 166],
+		"pos_y": [73.5, 92.5, 113.5, 125, 74],
+		"savety_margin": [10, 10, 10, 10, 10],
+		"num_people": 50,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+	"num_gen": 1
+}

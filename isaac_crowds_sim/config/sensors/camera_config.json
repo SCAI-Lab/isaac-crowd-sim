@@ -1,0 +1,23 @@
+{
+    "_comment2": "generic camera",
+    "class": "sensor",
+    "type": "camera",
+    "name": "rgbd", "_comment0": "",
+    "driveWorksId": "GENERIC",
+    "profile":
+    {
+        "horizontal aperture": 21,
+        "vertical aperture": 16,
+
+        "projection": "perspective",
+
+        "focal length": 24,
+        "focus distance": 400,
+
+        "frequency": 20,
+        "resolution_x": 256,
+        "resolution_y": 256
+    }
+}
+  
+    

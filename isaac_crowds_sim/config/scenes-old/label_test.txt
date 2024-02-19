@@ -1,0 +1,14 @@
+
+Spawn a1 131.5 9.6 0 0
+Spawn a2 132 9.5 0 0
+Spawn a3 135.5 12.5 0 0
+Spawn a4 136 12.5 0 0
+
+a3 GoTo 135.5 9 0 0
+a4 GoTo 136 9 0 0
+
+a3 LookAround 5
+a4 LookAround 5
+
+a3 GoTo 135.5 12.5 0 0
+a4 GoTo 136 12.5 0 0

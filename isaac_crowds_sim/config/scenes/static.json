@@ -1,0 +1,20 @@
+{
+	"gen_0":
+	{
+		"pos_x": [81.4],
+		"pos_y": [-112.5],
+		"savety_margin": [10],
+		"num_people": 50,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+	"num_gen": 1,
+    "wheelchair_pos":{
+		"static": {
+			"pos_x":[81.4],
+			"pos_y": [-112.5],
+			"theta": [100]
+		}
+	}
+}

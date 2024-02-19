@@ -1,0 +1,50 @@
+{
+	"gen_0":
+	{
+		"pos_x": [90.7, 101.8, 68.7, 85.5],
+		"pos_y": [-135.15, -111.7, -110.6, -96.4],
+		"savety_margin": [7.5, 7.5, 7.5, 7.5],
+		"num_people": 10,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+    "gen_1":
+	{
+		"pos_x": [101.8, 68.7, 85.5, 90.7],
+		"pos_y": [-111.7, -110.6, -96.4, -135.15],
+		"savety_margin": [7.5, 7.5, 7.5, 7.5],
+		"num_people": 10,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+    "gen_2":
+	{
+		"pos_x": [68.7, 85.5, 90.7, 101.8],
+		"pos_y": [-110.6, -96.4, -135.15, -111.7],
+		"savety_margin": [7.5, 7.5, 7.5, 7.5],
+		"num_people": 10,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+    "gen_3":
+	{
+		"pos_x": [85.5, 90.7, 101.8, 68.7],
+		"pos_y": [-96.4, -135.15, -111.7, -110.6],
+		"savety_margin": [7.5, 7.5, 7.5, 7.5],
+		"num_people": 10,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+	"num_gen": 4,
+    "wheelchair_pos":{
+		"static": {
+			"pos_x":[81.4],
+			"pos_y": [-112.5],
+			"theta": [100]
+		}
+	}
+}

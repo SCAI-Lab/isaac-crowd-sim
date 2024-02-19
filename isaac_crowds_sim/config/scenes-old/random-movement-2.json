@@ -1,0 +1,50 @@
+{
+    "gen_0":
+	{
+		"pos_x": [159.5, 151, 150],
+		"pos_y": [-205, -192.5, -176.8],
+		"savety_margin": [5, 20, 10],
+		"num_people": 10,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+	"gen_1":
+	{
+		"pos_x": [163, 150, 168],
+		"pos_y": [-179.5, -189, -192],
+		"savety_margin": [5, 25, 30],
+		"num_people": 10,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+    "gen_2":
+	{
+		"pos_x": [144.5, 171],
+		"pos_y": [-203.9, -193],
+		"savety_margin": [20, 20],
+		"num_people": 10,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+    "gen_3":
+	{
+		"pos_x": [163.75, 149, 162],
+		"pos_y": [-186, -193, -179],
+		"savety_margin": [20, 10, 10],
+		"num_people": 10,
+		"max_queue": 30,
+		"num_queues": 0,
+		"queue_exit_enabled": false
+	},
+	"num_gen": 4,
+	"wheelchair_pos":{
+		"static": {
+			"pos_x":[150],
+			"pos_y": [-187],
+			"theta": [110, 60, 60, -90]
+		}
+	}
+}

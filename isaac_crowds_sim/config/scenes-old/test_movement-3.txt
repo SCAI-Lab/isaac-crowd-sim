@@ -1,0 +1,4 @@
+Spawn Tom 0 0 0 0
+Spawn Jerry 10 -10 0 0
+Tom GoTo 10 -10 0 0
+Jerry GoTo 0 0 0 0
