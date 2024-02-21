@@ -1,3 +1,5 @@
+# Move this file to extscache/omni.anim.people-0.1.11/omni/anim/people/scripts/commands/queue.py
+
 # Copyright (c) 2022, NVIDIA CORPORATION.  All rights reserved.
 #
 # NVIDIA CORPORATION and its licensors retain all intellectual property
